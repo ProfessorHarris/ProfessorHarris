@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning AI
+- ⚡ Fun fact: I was a lobsterman for 7 years have designed mechanical systems currently in space
+- 
 <!--
 **ProfessorHarris/ProfessorHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
